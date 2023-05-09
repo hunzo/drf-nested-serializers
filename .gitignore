@@ -1,7 +1,7 @@
 venv/
 __pycache__/
 staticfiles/
-migrations/****_initial.py
+***/migrations/*.py
 
 *.pyc
 *.sqlite3
