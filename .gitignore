@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+staticfiles/
+migrations/****_initial.py
+
+*.pyc
+*.sqlite3
